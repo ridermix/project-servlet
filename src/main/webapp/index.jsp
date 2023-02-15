@@ -11,7 +11,7 @@
     <title>Tic-Tac-Toe</title>
 
 </head>
-<>
+<body>
 <h1>Tic-Tac-Toe</h1>
 <br>
 <table>

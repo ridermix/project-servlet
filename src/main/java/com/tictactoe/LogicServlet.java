@@ -8,7 +8,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.util.List;
-import java.util.Objects;
 
 @WebServlet(name = "LogicServlet", value = "/logic")
 public class LogicServlet extends javax.servlet.http.HttpServlet{

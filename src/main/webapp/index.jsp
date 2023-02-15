@@ -41,8 +41,8 @@
     <button onclick="restart()">Start again</button>
 </c:if>
 <c:if test="${winner == NOUGHTS}">
-    <button onclick="restart()">Start again</button>
     <h1>NOUGHTS WIN!</h1>
+    <button onclick="restart()">Start again</button>
 </c:if>
 
 
